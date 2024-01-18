@@ -1,7 +1,7 @@
 # Gin Web Framework
 
 
-[![Build Status](https://github.com/verystar/gin/workflows/Run%20Tests/badge.svg?branch=main)](https://github.com/verystar/gin/actions?query=branch%3Amain)
+[![Run Tests](https://github.com/verystar/gin/actions/workflows/gin.yml/badge.svg)](https://github.com/verystar/gin/actions/workflows/gin.yml)
 
 for https://github.com/gin-gonic/gin remove json,msgpack,toml package
 
