@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/gin-gonic/gin/binding"
 	"github.com/stretchr/testify/assert"
+	"github.com/verystar/gin/binding"
 )
 
 func init() {
