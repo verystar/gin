@@ -15,7 +15,6 @@ linters:
     - misspell
     - nakedret
     - nilerr
-    - nolintlint
     - revive
     - testifylint
     - wastedassign
